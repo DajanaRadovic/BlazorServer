@@ -4,6 +4,27 @@ This is an implementation of a simple hash map (dictionary) in C# using open add
 
 ---
 
+## Project Structure
+
+This solution consists of two main projects:
+
+- **MySimpleDictionary (Class Library)**  
+  Contains the implementation of the `MySimpleDictionary<TKey, TValue>` class.  
+  This project can be referenced by other applications to use the dictionary.
+
+- **BenchmarkTests (Console Application)**  
+  A console app that references `MySimpleDictionary` and runs functional tests and performance benchmarks.  
+  It compares the performance of `MySimpleDictionary` against the built-in .NET `Dictionary<TKey, TValue>`.  
+  The results are printed to the console.
+
+---
+
+## How to Run
+
+1. Build the solution so that the `BenchmarkTests` project references and uses the `MySimpleDictionary` class library.  
+2. Run the `BenchmarkTests` console application.  
+3. Observe the console output for test results and benchmark comparisons.
+
 ## Implementation Details
 
 - **Internal Structure:**  
@@ -63,9 +84,4 @@ Performance comparison of `MySimpleDictionary` vs the built-in `Dictionary<TKey,
 - The low rehash threshold improves operation consistency at the cost of more frequent rehashing and increased CPU usage.  
 - The standard .NET dictionary is highly optimized for performance and memory management.
 
----
-
-
-
----
 
