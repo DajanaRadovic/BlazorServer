@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HLJmzb1Pu98=",
+  "dgSpecHash": "j24QHy9SslA=",
   "success": true,
-  "projectFilePath": "D:\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\MySimpleDictionary.csproj",
+  "projectFilePath": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\MySimpleDictionary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

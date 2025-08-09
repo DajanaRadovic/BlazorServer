@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BlazorServer\\MySimpleDictionary\\",
+  "WorkspaceRootPath": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|d:\\blazorserver\\mysimpledictionary\\mysimpledictionary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|solutionrelative:mysimpledictionary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A90BA33A-8DC7-4465-A002-9E08D520AB87}|BenchmarkTests\\BenchmarkTests.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\benchmarktests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90BA33A-8DC7-4465-A002-9E08D520AB87}|BenchmarkTests\\BenchmarkTests.csproj|solutionrelative:benchmarktests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\mysimpledictionary\\mysimpledictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|solutionrelative:mysimpledictionary\\mysimpledictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\mysimpledictionary\\enums\\entrystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|solutionrelative:mysimpledictionary\\enums\\entrystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\mysimpledictionary\\interfaces\\imysimpledictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|solutionrelative:mysimpledictionary\\interfaces\\imysimpledictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1073,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\Class1.cs",
-              "RelativeDocumentMoniker": "MySimpleDictionary\\Class1.cs",
-              "ToolTip": "D:\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\Class1.cs",
-              "RelativeToolTip": "MySimpleDictionary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EntryState.cs",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\Enums\\EntryState.cs",
+              "RelativeDocumentMoniker": "MySimpleDictionary\\Enums\\EntryState.cs",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\Enums\\EntryState.cs",
+              "RelativeToolTip": "MySimpleDictionary\\Enums\\EntryState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:43:59.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySimpleDictionary.cs",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\MySimpleDictionary.cs",
+              "RelativeDocumentMoniker": "MySimpleDictionary\\MySimpleDictionary.cs",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\MySimpleDictionary.cs",
+              "RelativeToolTip": "MySimpleDictionary\\MySimpleDictionary.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAwOgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T09:40:38.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMySimpleDictionary.cs",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\Interfaces\\IMySimpleDictionary.cs",
+              "RelativeDocumentMoniker": "MySimpleDictionary\\Interfaces\\IMySimpleDictionary.cs",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\Interfaces\\IMySimpleDictionary.cs",
+              "RelativeToolTip": "MySimpleDictionary\\Interfaces\\IMySimpleDictionary.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:45:33.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BenchmarkTests\\Program.cs",
+              "RelativeDocumentMoniker": "BenchmarkTests\\Program.cs",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BenchmarkTests\\Program.cs",
+              "RelativeToolTip": "BenchmarkTests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:14:54.798Z",
               "EditorCaption": ""
             }
           ]

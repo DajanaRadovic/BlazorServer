@@ -1,0 +1,12 @@
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\bin\Debug\net8.0\MySimpleDictionary.deps.json
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\bin\Debug\net8.0\MySimpleDictionary.dll
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\bin\Debug\net8.0\MySimpleDictionary.pdb
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\obj\Debug\net8.0\MySimpleDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\obj\Debug\net8.0\MySimpleDictionary.AssemblyInfoInputs.cache
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\obj\Debug\net8.0\MySimpleDictionary.AssemblyInfo.cs
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\obj\Debug\net8.0\MySimpleDictionary.csproj.CoreCompileInputs.cache
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\obj\Debug\net8.0\MySimpleDictionary.sourcelink.json
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\obj\Debug\net8.0\MySimpleDictionary.dll
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\obj\Debug\net8.0\refint\MySimpleDictionary.dll
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\obj\Debug\net8.0\MySimpleDictionary.pdb
+D:\BlazorServer\BlazorServer\MySimpleDictionary\MySimpleDictionary\obj\Debug\net8.0\ref\MySimpleDictionary.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\MySimpleDictionary.csproj",
+      "projectUniqueName": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\MySimpleDictionary.csproj",
       "projectName": "MySimpleDictionary",
-      "projectPath": "D:\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\MySimpleDictionary.csproj",
+      "projectPath": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\MySimpleDictionary.csproj",
       "packagesPath": "C:\\Users\\Milijana\\.nuget\\packages\\",
-      "outputPath": "D:\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\obj\\",
+      "outputPath": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
