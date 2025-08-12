@@ -1,0 +1,48 @@
+﻿@page "/add"
+@using MySimpleDictionary
+@inject NavigationManager NavManager
+@inject DictionaryService DictService
+
+<div class="container mt-4" style="max-width: 500px;">
+    <h3>Add New Entry</h3>
+
+    <div class="mb-3">
+        <label for="keyInput" class="form-label">Key</label>
+        <input type="text" class="form-control" id="keyInput" @bind="KeyInput" placeholder="Enter key" />
+    </div>
+
+    <div class="mb-3">
+        <label for="valueInput" class="form-label">Value</label>
+        <input type="text" class="form-control" id="valueInput" @bind="ValueInput" placeholder="Enter value" />
+    </div>
+
+    <button class="btn btn-primary" @onclick="Add">Add</button>
+
+    @if (!string.IsNullOrEmpty(Message))
+    {
+        <div class="alert alert-info mt-3" role="alert">
+            @Message
+        </div>
+    }
+</div>
+
+@code {
+    private string KeyInput = "";
+    private string ValueInput = "";
+    private string Message = "";
+
+    private void Add()
+    {
+        if (string.IsNullOrWhiteSpace(KeyInput))
+        {
+            Message = "Key cannot be empty";
+            return;
+        }
+
+        DictService.Dict[KeyInput] = ValueInput;
+        Message = $"Added key '{KeyInput}' with value '{ValueInput}'";
+
+        KeyInput = "";
+        ValueInput = "";
+    }
+}

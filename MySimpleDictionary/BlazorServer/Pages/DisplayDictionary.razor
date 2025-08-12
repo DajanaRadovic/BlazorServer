@@ -1,0 +1,43 @@
+﻿@page "/display"
+@inject DictionaryService DictService
+
+<div class="container-fluid p-3">
+    <table class="table table-striped table-hover table-bordered w-100" style="font-size: 1.1rem; table-layout: fixed;">
+        <thead class="table-primary text-center">
+            <tr>
+                <th style="width: 25%;">Key</th>
+                <th style="width: 50%;">Value</th>
+                <th style="width: 25%;">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in DictService.Dict)
+            {
+                <tr>
+                    <td class="text-center" style="word-wrap: break-word;">@item.Key</td>
+                    <td class="text-center" style="word-wrap: break-word;">@item.Value</td>
+                    <td class="text-center">
+                        <button class="btn btn-sm btn-danger" @onclick="() => RemoveEntry(item.Key)">Remove</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+
+<button class="btn btn-primary mt-3" @onclick="ClearDictionary">Clear</button>
+
+@code {
+    void RemoveEntry(string key)
+    {
+        DictService.Dict.Remove(key);
+    }
+
+    void ClearDictionary()
+    {
+        DictService.Dict.Clear();
+    }
+}
