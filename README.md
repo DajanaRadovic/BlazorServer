@@ -17,6 +17,15 @@ This solution consists of two main projects:
   It compares the performance of `MySimpleDictionary` against the built-in .NET `Dictionary<TKey, TValue>`.  
   The results are printed to the console.
 
+- **BlazorServer (Blazor Server Application)**  
+  A Blazor Server app that provides a web interface for adding, displaying, and managing dictionary entries.
+  Uses MudBlazor components for modern UI design.
+
+  Implements two main pages:
+
+  /add — Page for adding new key-value pairs to the shared dictionary.
+
+  /display — Page for viewing all entries, removing specific entries, and clearing the dictionary.
 ---
 
 ## How to Run
