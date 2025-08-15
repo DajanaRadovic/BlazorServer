@@ -6,7 +6,7 @@ This is an implementation of a simple hash map (dictionary) in C# using open add
 
 ## Project Structure
 
-This solution consists of two main projects:
+This solution consists of three main projects:
 
 - **MySimpleDictionary (Class Library)**  
   Contains the implementation of the `MySimpleDictionary<TKey, TValue>` class.  
@@ -33,6 +33,8 @@ This solution consists of two main projects:
 1. Build the solution so that the `BenchmarkTests` project references and uses the `MySimpleDictionary` class library.  
 2. Run the `BenchmarkTests` console application.  
 3. Observe the console output for test results and benchmark comparisons.
+4. Build the solution so that the `BlazorServer` project also references the `MySimpleDictionary` class library.
+5. Run the Blazor Server application
 
 ## Implementation Details
 
