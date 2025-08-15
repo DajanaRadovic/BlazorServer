@@ -89,10 +89,23 @@ Performance comparison of `MySimpleDictionary` vs the built-in `Dictionary<TKey,
 
 ---
 
+## Blazor Server Application
+The application contains two main pages:
+
+1. **Add New Entry** – Page for entering new *key-value* pairs  
+   Allows the user to enter a key and a value, and add them to the shared service (`DictionaryService`)
+   
+   ![Add New Entry](https://github.com/DajanaRadovic/BlazorServer/blob/main/PicturesBlazorService/AddNewEntry.png)
+
+3. **Display Entries** – Page for viewing and managing the entered data  
+   Displays a table with all added pairs, allowing deletion of individual entries or clearing the entire dictionary
+   
+   ![Display Entries](https://github.com/DajanaRadovic/BlazorServer/blob/main/PicturesBlazorService/DisplayEntries.png)
+
 ## Conclusion
 
 - Performance is reasonable for small to medium datasets but slower than the built-in `Dictionary` especially in removal and search operations.  
 - The low rehash threshold improves operation consistency at the cost of more frequent rehashing and increased CPU usage.  
 - The standard .NET dictionary is highly optimized for performance and memory management.
 
-
+---
