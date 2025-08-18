@@ -23,7 +23,7 @@ This solution consists of three main projects:
 
   Implements two main pages:
 
-  /add — Page for adding new key-value pairs to the shared dictionary.
+  / — Page for adding new key-value pairs to the shared dictionary.
 
   /display — Page for viewing all entries, removing specific entries, and clearing the dictionary.
 ---
