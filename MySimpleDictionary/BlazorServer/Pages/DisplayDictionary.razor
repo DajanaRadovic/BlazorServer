@@ -1,41 +1,52 @@
 ﻿@page "/display"
 @inject DictionaryService DictService
+@using BlazorServer.Data
 
-<div class="container-fluid p-3">
-    <table class="table table-striped table-hover table-bordered w-100" style="font-size: 1.1rem; table-layout: fixed;">
-        <thead class="table-primary text-center">
-            <tr>
-                <th style="width: 25%;">Key</th>
-                <th style="width: 50%;">Value</th>
-                <th style="width: 25%;">Actions</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in DictService.Dict)
-            {
-                <tr>
-                    <td class="text-center" style="word-wrap: break-word;">@item.Key</td>
-                    <td class="text-center" style="word-wrap: break-word;">@item.Value</td>
-                    <td class="text-center">
-                        <button class="btn btn-sm btn-danger" @onclick="() => RemoveEntry(item.Key)">Remove</button>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
-</div>
+<MudPaper Class="pa-6 mx-auto mt-6" MaxWidth="900px" Elevation="6">
+    <MudText Typo="Typo.h5" Class="mb-4 text-center">DICTIONARY ENTRIES</MudText>
 
+    <MudDataGrid Items="@DictService.Entries"
+                 Filterable="false"
+                 SortMode="@SortMode.None"
+                 Groupable="false"
+                 Hover="true"
+                 Striped="true"
+                 Bordered="true"
+                 Dense="false">
+     
+        <Columns>
+            <PropertyColumn Property="x => x.Key" Title="KEY" Width="33%" />
+            <PropertyColumn Property="x => x.Value" Title="VALUE" Width="33%" />
 
-<button class="btn btn-primary mt-3" @onclick="ClearDictionary">Clear</button>
+            <TemplateColumn  Width="33%" HeaderClass="d-flex justify-center" Title="ACTION">
+                <CellTemplate Context="item">
+                    <div class="d-flex justify-center">
+                        <MudButton Color="Color.Primary"
+                                   Variant="Variant.Filled"
+                                   Size="Size.Small"
+                                   OnClick="@(() => Remove(item.Item.Key))">
+                            Delete
+                        </MudButton>
+                    </div>
+                </CellTemplate>
+            </TemplateColumn>
+        </Columns>
+    </MudDataGrid>
+
+    <MudButton Color="Color.Primary" Variant="Variant.Filled"
+               Class="mt-3" Size="Size.Small" OnClick="ClearAll">
+        Clear All
+    </MudButton>
+</MudPaper>
 
 @code {
-    void RemoveEntry(string key)
+    private void Remove(string key)
     {
-        DictService.Dict.Remove(key);
+        DictService.RemoveEntry(key);
     }
 
-    void ClearDictionary()
+    private void ClearAll()
     {
-        DictService.Dict.Clear();
+        DictService.ClearAll();
     }
 }

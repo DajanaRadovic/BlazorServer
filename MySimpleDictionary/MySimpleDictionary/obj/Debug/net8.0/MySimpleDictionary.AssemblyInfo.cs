@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MySimpleDictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc05068e2983deeb27e1a03c99a11662a63a1fd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fe4379960f6bcd3d08a0e83a291ed2c1ff9fb0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MySimpleDictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MySimpleDictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

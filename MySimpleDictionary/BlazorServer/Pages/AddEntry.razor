@@ -1,37 +1,32 @@
 ﻿@page "/"
-@using MySimpleDictionary
-@inject NavigationManager NavManager
 @inject DictionaryService DictService
+@using BlazorServer.Data
 
-<div class="container mt-4" style="max-width: 500px;">
-    <h3>Add New Entry</h3>
 
-    <div class="mb-3">
-        <label for="keyInput" class="form-label">Key</label>
-        <input type="text" class="form-control" id="keyInput" @bind="KeyInput" placeholder="Enter key" />
-    </div>
+<MudPaper Class="pa-6 mx-auto mt-6" MaxWidth="350px" Elevation="4">
+    <MudText Typo="Typo.h5" Class="mb-4">ADD NEW ENTRY</MudText>
 
-    <div class="mb-3">
-        <label for="valueInput" class="form-label">Value</label>
-        <input type="text" class="form-control" id="valueInput" @bind="ValueInput" placeholder="Enter value" />
-    </div>
+    <MudTextField @bind-Value="KeyInput" Label="Key" Variant="Variant.Filled" FullWidth="true" />
+    <MudTextField @bind-Value="ValueInput" Label="Value" Variant="Variant.Filled" FullWidth="true" />
 
-    <button class="btn btn-primary" @onclick="Add">Add</button>
-
+    <MudButton OnClick="AddKeyValue" Color="Color.Primary" Variant="Variant.Filled" Class="mt-4" FullWidth="true">
+        Add
+    </MudButton>
+    
     @if (!string.IsNullOrEmpty(Message))
     {
         <div class="alert alert-info mt-3" role="alert">
             @Message
         </div>
     }
-</div>
+</MudPaper>
 
 @code {
     private string KeyInput = "";
     private string ValueInput = "";
     private string Message = "";
 
-    private void Add()
+    private void AddKeyValue()
     {
         if (string.IsNullOrWhiteSpace(KeyInput))
         {
@@ -39,10 +34,12 @@
             return;
         }
 
-        DictService.Dict[KeyInput] = ValueInput;
+        DictService.AddEntry(KeyInput, ValueInput);
         Message = $"Added key '{KeyInput}' with value '{ValueInput}'";
 
         KeyInput = "";
         ValueInput = "";
+     
     }
+
 }

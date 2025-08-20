@@ -11,36 +11,48 @@
       "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\pages\\addentry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\services\\dictionaryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\services\\dictionaryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\blazorserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\blazorserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\mysimpledictionary\\mysimpledictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|solutionrelative:mysimpledictionary\\mysimpledictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\blazorserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\blazorserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\blazorserver\\data\\dictitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126167E0-E1FB-41FA-B2F1-107157D24E3A}|BlazorServer\\BlazorServer.csproj|solutionrelative:blazorserver\\data\\dictitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA55D28E-8757-4448-BA93-279AF22D8935}|MySimpleDictionary\\MySimpleDictionary.csproj|d:\\blazorserver\\blazorserver\\mysimpledictionary\\mysimpledictionary\\interfaces\\imysimpledictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +74,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1073,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "DisplayDictionary.razor",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Pages\\DisplayDictionary.razor",
+              "RelativeDocumentMoniker": "BlazorServer\\Pages\\DisplayDictionary.razor",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Pages\\DisplayDictionary.razor",
+              "RelativeToolTip": "BlazorServer\\Pages\\DisplayDictionary.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T18:09:32.254Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorServer\\_Imports.razor",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\_Imports.razor",
+              "RelativeToolTip": "BlazorServer\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T18:42:16.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorServer\\Shared\\NavMenu.razor",
@@ -74,7 +112,31 @@
               "RelativeToolTip": "BlazorServer\\Shared\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T18:10:53.077Z",
+              "WhenOpened": "2025-08-10T18:10:53.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Startup.cs",
+              "RelativeDocumentMoniker": "BlazorServer\\Startup.cs",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Startup.cs",
+              "RelativeToolTip": "BlazorServer\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:47:01.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DictionaryServices.cs",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Services\\DictionaryServices.cs",
+              "RelativeDocumentMoniker": "BlazorServer\\Services\\DictionaryServices.cs",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Services\\DictionaryServices.cs",
+              "RelativeToolTip": "BlazorServer\\Services\\DictionaryServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:59:56.941Z",
               "EditorCaption": ""
             },
             {
@@ -85,14 +147,40 @@
               "RelativeDocumentMoniker": "BlazorServer\\Pages\\AddEntry.razor",
               "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Pages\\AddEntry.razor",
               "RelativeToolTip": "BlazorServer\\Pages\\AddEntry.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-10T17:46:32.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\App.razor",
+              "RelativeDocumentMoniker": "BlazorServer\\App.razor",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\App.razor",
+              "RelativeToolTip": "BlazorServer\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T19:40:41.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "BlazorServer\\Pages\\_Host.cshtml",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "BlazorServer\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T18:27:49.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "site.css",
               "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "BlazorServer\\wwwroot\\css\\site.css",
@@ -100,60 +188,24 @@
               "RelativeToolTip": "BlazorServer\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-10T20:26:19.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BlazorServer.csproj",
-              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\BlazorServer.csproj",
-              "RelativeDocumentMoniker": "BlazorServer\\BlazorServer.csproj",
-              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\BlazorServer.csproj",
-              "RelativeToolTip": "BlazorServer\\BlazorServer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-10T17:49:28.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Startup.cs",
-              "RelativeDocumentMoniker": "BlazorServer\\Startup.cs",
-              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Startup.cs",
-              "RelativeToolTip": "BlazorServer\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:47:01.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DisplayDictionary.razor",
-              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Pages\\DisplayDictionary.razor",
-              "RelativeDocumentMoniker": "BlazorServer\\Pages\\DisplayDictionary.razor",
-              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Pages\\DisplayDictionary.razor",
-              "RelativeToolTip": "BlazorServer\\Pages\\DisplayDictionary.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T18:09:32.254Z",
+              "WhenOpened": "2025-08-10T20:26:19.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DictionaryServices.cs",
-              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Services\\DictionaryServices.cs",
-              "RelativeDocumentMoniker": "BlazorServer\\Services\\DictionaryServices.cs",
-              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Services\\DictionaryServices.cs",
-              "RelativeToolTip": "BlazorServer\\Services\\DictionaryServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:59:56.941Z"
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorServer\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "BlazorServer\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T18:39:12.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Program.cs",
               "RelativeDocumentMoniker": "BlazorServer\\Program.cs",
@@ -165,31 +217,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Shared\\MainLayout.razor",
-              "RelativeDocumentMoniker": "BlazorServer\\Shared\\MainLayout.razor",
-              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Shared\\MainLayout.razor",
-              "RelativeToolTip": "BlazorServer\\Shared\\MainLayout.razor",
+              "DocumentIndex": 11,
+              "Title": "BlazorServer.csproj",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\BlazorServer.csproj",
+              "RelativeDocumentMoniker": "BlazorServer\\BlazorServer.csproj",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\BlazorServer.csproj",
+              "RelativeToolTip": "BlazorServer\\BlazorServer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T18:39:12.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MySimpleDictionary.cs",
-              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\MySimpleDictionary.cs",
-              "RelativeDocumentMoniker": "MySimpleDictionary\\MySimpleDictionary.cs",
-              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\MySimpleDictionary.cs",
-              "RelativeToolTip": "MySimpleDictionary\\MySimpleDictionary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T09:40:38.758Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T11:19:44.946Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "DictItem.cs",
+              "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Data\\DictItem.cs",
+              "RelativeDocumentMoniker": "BlazorServer\\Data\\DictItem.cs",
+              "ToolTip": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BlazorServer\\Data\\DictItem.cs",
+              "RelativeToolTip": "BlazorServer\\Data\\DictItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T21:59:44.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "EntryState.cs",
               "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\Enums\\EntryState.cs",
               "RelativeDocumentMoniker": "MySimpleDictionary\\Enums\\EntryState.cs",
@@ -201,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IMySimpleDictionary.cs",
               "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\MySimpleDictionary\\Interfaces\\IMySimpleDictionary.cs",
               "RelativeDocumentMoniker": "MySimpleDictionary\\Interfaces\\IMySimpleDictionary.cs",
@@ -213,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BlazorServer\\BlazorServer\\MySimpleDictionary\\BenchmarkTests\\Program.cs",
               "RelativeDocumentMoniker": "BenchmarkTests\\Program.cs",
